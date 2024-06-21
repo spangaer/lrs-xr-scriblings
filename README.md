@@ -1,3 +1,8 @@
+# Cross Call notes
+
+Simple cross call with jnr-ffi takes only 27ns. That's pretty darn fast.
+
+
 # Learning Rust (_lrs_)
 
 The learning rust (_lrs_) series of repositories have no ambition to contain

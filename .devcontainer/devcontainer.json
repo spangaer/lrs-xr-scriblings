@@ -12,7 +12,9 @@
             "extensions": [
                 "jbockle.jbockle-format-files",
                 "streetsidesoftware.code-spell-checker",
-                "eamodio.gitlens"
+                "eamodio.gitlens",
+                "josevseb.google-java-format-for-vs-code",
+                "vscjava.vscode-gradle"
             ]
         }
     },
@@ -30,7 +32,8 @@
             "version": "21",
             "jdkDistro": "tem",
             "installMaven": true,
-            "installGradle": true
+            "installGradle": true,
+            "gradleVersion": "8.8"
         }
     }
     // Use 'forwardPorts' to make a list of ports inside the container available locally.

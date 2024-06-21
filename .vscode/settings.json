@@ -5,5 +5,14 @@
     "formatFiles.extensionsToInclude": "rs,toml",
     "formatFiles.excludedFolders": [
         "target"
-    ]
+    ],
+    "java.compile.nullAnalysis.mode": "disabled",
+    "java.format.settings.google.version": "1.22.0",
+    "[java]": {
+        "editor.tabSize": 2,
+        "editor.detectIndentation": false,
+        "editor.defaultFormatter": "josevseb.google-java-format-for-vs-code"
+    },
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.debug.settings.vmArgs": "-Djava.library.path=/workspaces/lrs-xr-scriblings/xr-rs/target/release"
 }

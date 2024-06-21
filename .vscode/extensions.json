@@ -1,6 +1,12 @@
 {
     "recommendations": [
         "jbockle.jbockle-format-files",
-        "streetsidesoftware.code-spell-checker"
+        "streetsidesoftware.code-spell-checker",
+        "redhat.java",
+        "vscjava.vscode-java-debug",
+        "vscjava.vscode-java-test",
+        "vscjava.vscode-java-dependency",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "vscjava.vscode-gradle"
     ]
 }
